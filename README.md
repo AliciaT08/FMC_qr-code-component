@@ -44,8 +44,8 @@ I am solidifying my HTML and CSS knowledge, and see areas of needed improvement.
 ### Continued development
 
 - Understanding why/when to use: 'min-height: 100vh' in CSS. 
-- When there is more than one way to acceive an outcome, knowing how to pick the best route.
-- Doing another Frontend Menton Challenge.
+- When there is more than one way to achieve an outcome, knowing how to pick the best route.
+- Doing another Frontend Mentor Challenge.
 
 
 ## Author

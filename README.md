@@ -24,8 +24,7 @@ Building a simple QR code component using HTML and CSS.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Live Site URL](https://aliciat08.github.io/QR-code-component/)
 
 ## My process
 
